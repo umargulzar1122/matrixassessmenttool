@@ -51,6 +51,33 @@ Appropriate permissions for creating and managing Model Driven Apps
 ### Installation
 Installing the Matrix Assessment Component Packages.
 
+1) Download _ColorPicker managed solution and import in your dataverse.
+
+2) Download _EntitySelector managed solution and import in your dataverse.
+
+3) Download _Slider managed solution and import in your dataverse.
+
+4) Download _MatrixAssessment managed solution and import in your dataverse.
+
+5) Download MatrixAssessment managed solution and import in your dataverse.
 
 
 
+
+
+
+
+## Screenshots
+
+![App Screenshot](https://res.cloudinary.com/pakgarage/image/upload/v1718810209/image_ddqanp.png)
+
+![App Screenshot](https://res.cloudinary.com/pakgarage/image/upload/v1718810304/Screenshot_2024-06-19_201755_mjbnlg.png)
+
+
+
+ 
+
+
+## Contact
+
+For questions, issues, or feature requests, please open an issue in this repository or contact us at nexus.mind.uicomponents@gmail.com.
