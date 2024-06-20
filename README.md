@@ -61,21 +61,28 @@ Installing the Matrix Assessment Component Packages.
 
 5) Download MatrixAssessment.zip managed solution and import it into your dataverse.
 
-
-
-
-
-
-
 ## Screenshots
 
 ![App Screenshot](https://res.cloudinary.com/pakgarage/image/upload/v1718810209/image_ddqanp.png)
 
 ![App Screenshot](https://res.cloudinary.com/pakgarage/image/upload/v1718810304/Screenshot_2024-06-19_201755_mjbnlg.png)
 
+## Model Driven App
 
+### Integrate in Model Driven App
 
- 
+After importing solutions go to your https://make.powerapps.com/ 
+
+Under App section 
+
+Run the Matrix Assessment Tool Model Driven App
+
+![App Screenshot](https://res.cloudinary.com/pakgarage/image/upload/v1718900353/Screenshot_2024-06-20_211759_oluuet.png)
+
+First Screen will appear is Matrix Configuration.
+
+In this section you can add configuration of your Matrix and also you can customize the layout of the Matrix.
+ ![App Screenshot](https://res.cloudinary.com/pakgarage/image/upload/v1718900467/Screenshot_2024-06-20_212050_wahh95.png)
 
 
 ## Contact
